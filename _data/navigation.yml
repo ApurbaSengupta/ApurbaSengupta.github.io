@@ -4,7 +4,7 @@ main:
     url: /cv/
     
   - title: "Projects"
-    url: /publications/
+    url: /projects/
         
   - title: "Activities"
-    url: /year-archive/
+    url: /activities/
