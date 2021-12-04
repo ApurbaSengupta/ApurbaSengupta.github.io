@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* Paylocity Corporation: Data Scientist
+* Paylocity Corporation: Data Scientist (Aug 2021 - Present)
   * Dev 1
   * Dev 2
   * Dev 3
 
-* Quantiphi, Inc.: ML Engineer
+* Quantiphi, Inc: ML Engineer (Jul 2019 - Jul 2021)
   * Dev 1
   * Dev 2
   * Dev 3
