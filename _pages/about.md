@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello there!
+Hello there! I'm Apurba and I'm a Data Scientist currently working at Paylocity Corporation.
 
-Si vis pacem, para bellum
+I received my Bachelors in Electrical Engineering from NIT Surat in 2016. My interest and passion for Machine Learning brought me to the United States, where I completed my Masters in Data Science from the University of Pennsylvania in 2019. During my time at Penn, I focused my studies towards ML, Deep Learning and NLP.
+
+Since graduating from Penn, I have been gaining industrial experience in applied Data Science. I was a full-time employee at Quantiphi, Inc. from ~ mid-2019 to ~ mid-2021 in the capacity of ML Engineer, where I learned how to develop and productionize large-scale ML solutions on cloud platforms. At Paylocity, I'm working on extending as well as initiating ML capabilities to our products that are designed to cater to the needs and expectations of the modern workforce.
+
+I'm highly interested in Deep Learning, NLP and ASR, and I wish to contribute more actively to these amazingly incredible fields in the future by being able to be part of active research communities.
+
+When not working or updating my professional profile(s), I enjoy traveling to new places, hiking, singing, watching soccer, Westerns or John Wick, and spending time with loved ones.

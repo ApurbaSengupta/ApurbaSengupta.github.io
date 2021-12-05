@@ -27,7 +27,7 @@ Work experience
   * Additionally, I briefly consulted on a few other client projects such as development of a demand forecasting model for a consumer goods business, and development of a video recognition model for a food & beverages business
   * Tools I used at Quantiphi - TensorFlow, Prophet, R, Lambda, SageMaker, Fargate, Boto3, Vertex AI, Kubeflow, OpsGenie
 
-* Byton NA Corporation - Data Science Intern (Summer 2018)
+* Byton North America Corporation - Data Science Intern (Summer 2018)
   * As a Data Science Intern, I was involved in the development of a Deep Learning model to estimate the (approximate) remaining driving range of Byton's concept electric car at any given time based on car battery and GPS signals, thus allowing for a more accurate battery recharge alarming system
   * I was also involved in market data analysis of electric car sales to identify car features that tend to drive certain sales patterns
   * Tools I used at Byton - Jupyter, PyTorch, Plotly   
