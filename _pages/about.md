@@ -16,4 +16,4 @@ Since graduating from Penn, I have been gaining industrial experience in applied
 
 I'm highly interested in Deep Learning, NLP and ASR, and I wish to contribute more actively to these amazingly incredible fields in the future by being able to be part of active research communities.
 
-When not working or updating my professional profile(s), I enjoy traveling to new places, hiking new heights, trying new dishes, singing old songs, watching soccer, Westerns or crime dramas, and spending time with loved ones.
+When not working or updating my professional profile(s), I enjoy traveling to new places, hiking new highs & lows, trying new dishes, singing old songs, watching soccer, Westerns or crime dramas, and spending time with loved ones.

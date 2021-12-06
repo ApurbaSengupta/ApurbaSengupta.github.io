@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, National Institute of Technology Surat, 2016
 * M.S.E. in Data Science, University of Pennsylvania, 2019
+* B.Tech. in Electrical Engineering, National Institute of Technology Surat, 2016
 
 Work experience
 ======
