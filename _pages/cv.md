@@ -21,7 +21,7 @@ Work experience
   * I'm also involved in the development and deployment of ML pipelines for automating production-scale model training, inference and monitoring workflows
   * Tools I'm currently using at Paylocity - TensorFlow, Prophet, Optuna, MLflow, Databricks, Data Factory, EMR, Pulumi, React 
 
-* Quantiphi, Inc - ML Engineer (Jul 2019 - Jul 2021)
+* Quantiphi, Inc. - ML Engineer (Jul 2019 - Jul 2021)
   * As a ML Engineer, I was involved in the development and deployment of ML and Deep Learning models to the production (cloud) environments of Quantiphi's clients which included developing demand forecasting models for a US-based billion dollar restaurants business and a multinational billion dollar cosmetics business, enabling them to understand their respective product sales trends & patterns and hence make data-driven decisions to address their inventory management and staffing needs along with improving their marketing initiatives
   * I was also involved in the development and deployment of ML pipelines for automating production-scale model training, inference and monitoring workflows
   * Additionally, I briefly consulted on a few other client projects such as development of a demand forecasting model for a consumer goods business, and development of a video recognition model for a food & beverages business
