@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /project/2018-12-01-paper-title-number-2
+# permalink: /project/2018-12-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-12-01
 venue: 'Journal 1'
