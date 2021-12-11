@@ -1,9 +1,9 @@
 ---
-title: "Title Number 2"
+title: "Paper Title Number 2"
 collection: projects
-permalink: /project/Paper-paper-title-number-2
+permalink: /project/2018-12-01-paper-title-number-2
 excerpt: 'This paper is about the number 2.'
-date: Paper
+date: 2018-12-01
 paperurl: 'http://ApurbaSengupta.github.io/files/paper2.pdf'
 ---
 
