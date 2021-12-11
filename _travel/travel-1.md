@@ -1,6 +1,6 @@
 ---
 title: "Big Island, Hawai'i"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/big-island-1.jpg'>"
 collection: travel
 ---
 
