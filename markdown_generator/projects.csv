@@ -1,4 +1,5 @@
 pub_date,title,excerpt,url_slug,paper_url
 2018-05-01,Predicting Nature of Stocks Based on News Articles,Predicted bullish/bearish effects of news on stock prices using LSTM and SVM,stock-nature-predictor,http://ApurbaSengupta.github.io/files/cis-520-project.pdf
 2018-12-01,Generating Super-Resolution Images using GANs,Generated super-resolved images using a combination of SRGAN and ESRGAN,super-resolved-images,http://ApurbaSengupta.github.io/files/cis-680-project.pdf
+2019-05-01,Towards Object Reconstruction using Convolutional Mesh Regression,Created object data and keypoints to be reconstructed in 3D using Graph-CNN,image-3D-reconstructor,http://ApurbaSengupta.github.io/files/dats-599-report.pdf
 2019-05-01,Lyrics Generation using BERT,Generated rock song lyrics using BERT Masked Language Model and BERT Next Sentence Predictor,bert-lyrics-generator,http://ApurbaSengupta.github.io/files/cis-530-project.pdf
