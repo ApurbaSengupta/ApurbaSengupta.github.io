@@ -1,6 +1,6 @@
 ---
 title: "Big Island, Hawai'i"
-excerpt: "(L-R) Kīlauea Crater, South Point, Makalawena Beach<br/><img src='/images/big-island-1.jpg'> &nbsp; <img src='/images/big-island-2.jpg'> &nbsp; <img src='/images/big-island-3.jpg'>"
+excerpt: "(L-R) Kīlauea Crater, South Point, Makalawena Beach<br/><img src='/images/big-island-1.jpg'><img src='/images/big-island-2.jpg'><img src='/images/big-island-3.jpg'>"
 collection: travel
 ---
 
