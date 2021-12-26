@@ -4,4 +4,4 @@ excerpt: "(L-R) Kīlauea, South Point, Makalawena Beach<br/><img src='/images/bi
 collection: travel
 ---
 
-These are a few pictures from the Big Island of Hawai'i (January 2021)
+These were a few pictures from the <a href="https://en.wikipedia.org/wiki/Hawaii_(island)">Big Island of Hawai'i</a> (January 2021)
