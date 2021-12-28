@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Apurba's Homepage"
 title_separator          : "-"
 name                     : &name "Apurba M. Sengupta"
-description              : &description "Applied ML and Data Science"
+description              : &description "Data Scientist, UPenn Graduate"
 url                      : https://ApurbaSengupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ApurbaSengupta.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Apurba M. Sengupta"
   avatar           : "profile-pic-2.jpg"
-  bio              : "Applied ML and Data Science"
+  bio              : "Data Scientist, UPenn Graduate"
   location         : "Massachusetts, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
