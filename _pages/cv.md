@@ -19,7 +19,7 @@ Work experience
 * Paylocity Corporation - Data Scientist (Aug 2021 - Present)
   * As a Data Scientist, I'm actively involved in the development and deployment of ML, Deep Learning and NLP models to Paylocity's suite of HCM and Workforce Engagement products in order to enable, ensure and improve customer experiences related to online query resolution, content moderation, workforce scheduling, etc. when using our products 
   * I'm also involved in the development and deployment of ML pipelines using Infrastructure-as-Code platforms for automating production-scale model training, inference and monitoring workflows
-  * Additionally, I am part of an employee committee that leads conversations and awareness on the importance of developing and maintaining explainable AI components in our products
+  * Additionally, I am part of an employee committee that leads conversations and awareness on the importance of developing and maintaining Explainable AI components in our products
   * Tools I'm currently using at Paylocity - TensorFlow, Prophet, Optuna, MLflow, SHAP, Databricks, Azure, AWS, Pulumi
 
 * Quantiphi, Inc. - ML Engineer (Jul 2019 - Jul 2021)
